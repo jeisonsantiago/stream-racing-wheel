@@ -82,7 +82,7 @@ class App extends Component {
 
     return (
       <div style={{ width: '600px', height: '100%', position: 'absolute', top: '0px', left: '0px' }}>
-        <label style={{ color: 'white' }}>Driving System</label><select name="gamepadSelection" onChange={(e) => { this.onChange(e) }}>
+        {/* <label style={{ color: 'white' }}>Driving System</label><select name="gamepadSelection" onChange={(e) => { this.onChange(e) }}>
           {options}
         </select>
         <br />
@@ -93,7 +93,7 @@ class App extends Component {
         </div>
         <div style={{ position: 'relative', top: '-300px', left: "500px", 'marginLeft': '50px' }}>
           <ShifterBase />
-        </div>
+        </div> */}
         <div style={{ position: 'relative', top: '-170px', left: "30px", 'marginLeft': '50px' }}>
           <Pedals />
         </div>
