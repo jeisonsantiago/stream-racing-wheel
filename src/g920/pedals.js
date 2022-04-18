@@ -16,7 +16,7 @@ class Pedals extends Component {
                 <Pedal top={-10} left={40} downAmount={50} axis={1} src="/stream-racing-wheel/g920/clutch.png" />
 
                 <img alt="" style={pedalsStyle} src="/stream-racing-wheel/g920/pedals.png" />
-
+                {/* test */}
             </div>
         )
     }
