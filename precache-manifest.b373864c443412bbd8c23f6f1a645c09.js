@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "85f2df0abd4b96d2a3f5ae6d69c776b1",
+    "revision": "f373ce9b94f2b7b3ce0440849a45cb6c",
     "url": "/stream-racing-wheel/index.html"
   },
   {
-    "revision": "9bb2f942ae44ee83e49f",
+    "revision": "29d7fcb870292c2f0081",
     "url": "/stream-racing-wheel/static/css/main.d05d0d56.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/stream-racing-wheel/static/js/2.3a17e436.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "9bb2f942ae44ee83e49f",
-    "url": "/stream-racing-wheel/static/js/main.a7737d8e.chunk.js"
+    "revision": "29d7fcb870292c2f0081",
+    "url": "/stream-racing-wheel/static/js/main.7b6ef2da.chunk.js"
   },
   {
     "revision": "bd94bbd584e5d9cae908",
