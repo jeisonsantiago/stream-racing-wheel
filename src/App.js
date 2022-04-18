@@ -94,7 +94,7 @@ class App extends Component {
         <div style={{ position: 'relative', top: '-300px', left: "500px", 'marginLeft': '50px' }}>
           <ShifterBase />
         </div> */}
-        <div style={{ position: 'relative', top: '30px', left: "30px", 'marginLeft': '50px' }}>
+        <div style={{ position: 'relative', top: '200px', left: "30px", 'marginLeft': '50px' }}>
           <Pedals />
         </div>
 
