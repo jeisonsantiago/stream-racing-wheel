@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/stream-racing-wheel/static/css/main.89d366a9.chunk.css",
-    "main.js": "/stream-racing-wheel/static/js/main.5d118e07.chunk.js",
-    "main.js.map": "/stream-racing-wheel/static/js/main.5d118e07.chunk.js.map",
+    "main.js": "/stream-racing-wheel/static/js/main.d1b026ae.chunk.js",
+    "main.js.map": "/stream-racing-wheel/static/js/main.d1b026ae.chunk.js.map",
     "runtime-main.js": "/stream-racing-wheel/static/js/runtime-main.2ecfeb33.js",
     "runtime-main.js.map": "/stream-racing-wheel/static/js/runtime-main.2ecfeb33.js.map",
     "static/js/2.3a17e436.chunk.js": "/stream-racing-wheel/static/js/2.3a17e436.chunk.js",
     "static/js/2.3a17e436.chunk.js.map": "/stream-racing-wheel/static/js/2.3a17e436.chunk.js.map",
     "index.html": "/stream-racing-wheel/index.html",
-    "precache-manifest.4824162998d89e18115512139c0c8083.js": "/stream-racing-wheel/precache-manifest.4824162998d89e18115512139c0c8083.js",
+    "precache-manifest.f3ff87dc10170f1e5d24e03abef0aa2d.js": "/stream-racing-wheel/precache-manifest.f3ff87dc10170f1e5d24e03abef0aa2d.js",
     "service-worker.js": "/stream-racing-wheel/service-worker.js",
     "static/css/main.89d366a9.chunk.css.map": "/stream-racing-wheel/static/css/main.89d366a9.chunk.css.map",
     "static/js/2.3a17e436.chunk.js.LICENSE.txt": "/stream-racing-wheel/static/js/2.3a17e436.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.2ecfeb33.js",
     "static/js/2.3a17e436.chunk.js",
     "static/css/main.89d366a9.chunk.css",
-    "static/js/main.5d118e07.chunk.js"
+    "static/js/main.d1b026ae.chunk.js"
   ]
 }
